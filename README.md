@@ -17,4 +17,10 @@ I'll be logging major events/milestones of my tech journey and career every year
 ## Jan 22-23
 - This weekend I had some coding assesments and other stuff so I decided to join hackathons alone as I wasn't sure if I'll be able to fully commit to it and didn't wanna burden other team members.
 - Worked on [Breathe.ly](https://devpost.com/software/breathe-ly-xrhmz9) and submitted to Hack Cambridge, QWER Hacks and StarHacks II 
-- Won MLH: Best use of Google Cloud Prize in StarHacks II and runner up prize in Health & Wellness Track in QWER Hacks
+- Won MLH: Best use of Google Cloud Prize in StarHacks II and runner up prize in Health & Wellness Track in QWER Hacks. 
+
+## Jan 29-30
+- Was sick 🤒 so didn't do anything productive whole week. 
+- Joined QHacks by Queen's University virtually and worked on a imple project.
+
+

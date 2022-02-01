@@ -23,4 +23,7 @@ I'll be logging major events/milestones of my tech journey and career every year
 - Was sick 🤒 so didn't do anything productive whole week. 
 - Joined QHacks by Queen's University virtually and worked on a imple project.
 
+# Feb 1
+- Got accepted in "Road to GDE" mentorship program by Google 🤩 
+- Excited to upskill myself and learn a lot in next 3 months 👩‍💻
 

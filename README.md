@@ -37,8 +37,9 @@ I'll be logging major events/milestones of my tech journey and career every year
 - No hackathons this weekend. 
 
 ## Feb 19-20
-<img width="595" alt="Screenshot 2022-02-22 at 11 45 12 PM" src="https://user-images.githubusercontent.com/20701948/155193798-f4001ff0-acf4-4e2c-88b7-9440020527cf.png" width="650">
-- This week was very hectic as I was Hackathon Lead for Shooting Stars Foundation All Girls Hackathon and had to manage a lot of things this week and on 19-20th 
-- Participated in PowerToFly APAC Hackathon and won 1st Place 🤩 
+- This week was very hectic as I was Hackathon Lead for Shooting Stars Foundation All Girls Hackathon and had to manage a lot of things this week and on 19-20th.
+- Participated in PowerToFly APAC Hackathon and won 1st Place 🤩   
 - Was also sick so it was not a pleasant week for me. Taking rest for next few days
+
+<img width="595" alt="Screenshot 2022-02-22 at 11 45 12 PM" src="https://user-images.githubusercontent.com/20701948/155193798-f4001ff0-acf4-4e2c-88b7-9440020527cf.png" width="650">   
 

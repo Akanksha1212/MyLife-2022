@@ -31,3 +31,13 @@ I'll be logging major events/milestones of my tech journey and career every year
 - Kickstarted Ripple 1.0, a 30 day Mentorship Program that I started with 3 of my classmates. We matched mentors from 2022 MCA IGDTUW batch to 2023 batch students and with this mentorship program we aim to build a strong community of MCA IGDTUW students and help our juniors in getting guidance in their placement prep. 
 - I participated in HackViolet this weekend with Kaman Au, an excellent designer from Philippines. I converted her designs into code and created Sheroes with her. We won Best use of Google Cloud 2nd place. Though we were confident of our idea and project and belived we had potential to win in other categories as well but I am happy that I got a chance to work with Kaman on Sheroes. 
 
+## Feb 12-13
+- Hosted session on Firebase which was part of Road to Google Solution Challenge by GDSC IGDTW.
+- Speaker at Intro to Mobile Dev workshop at KurinjiHacks
+- No hackathons this weekend. 
+
+## Feb 19-20
+- This week was very hectic as I was Hackathon Lead for Shooting Stars Foundation All Girls Hackathon and had to manage a lot of things this week and on 19-20th 
+- Participated in PowerToFly APAC Hackathon and won 1st Place 🤩 
+- Was also sick so it was not a pleasant week for me. Taking rest for next few days
+

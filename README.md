@@ -29,7 +29,7 @@ I'll be logging major events/milestones of my tech journey and career every year
 
 ## Feb 5-6
 - Kickstarted Ripple 1.0, a 30 day Mentorship Program that I started with 3 of my classmates. We matched mentors from 2022 MCA IGDTUW batch to 2023 batch students and with this mentorship program we aim to build a strong community of MCA IGDTUW students and help our juniors in getting guidance in their placement prep. 
-- I participated in HackViolet this weekend with Kaman Au, an excellent designer from Philippines. I converted her designs into code and created Sheroes with her. We won Best use of Google Cloud 2nd place. Though we were confident of our idea and project and belived we had potential to win in other categories as well but I am happy that I got a chance to work with Kaman on Sheroes. 
+- I participated in HackViolet this weekend with Kaman Au, an excellent designer from Philippines. I converted her designs into code and created Sheroes with her. We won Best use of Google Cloud 2nd place. Though we were confident of our idea and project and believed we had potential to win in other categories as well but I am happy that I got a chance to work with Kaman on Sheroes. 
 
 ## Feb 12-13
 - Hosted session on Firebase which was part of Road to Google Solution Challenge by GDSC IGDTW.
@@ -43,3 +43,6 @@ I'll be logging major events/milestones of my tech journey and career every year
 
 <img width="595" alt="Screenshot 2022-02-22 at 11 45 12 PM" src="https://user-images.githubusercontent.com/20701948/155193798-f4001ff0-acf4-4e2c-88b7-9440020527cf.png" width="650">   
 
+## Feb 26-27  
+- This week was great. I signed my first full time SWE job offer letter and celebrated with family 🥳🎊
+- Gave a talk on "Push notifications made easy with OneSignal" at Flutter Festival El Jadida and hosted workshop titled "Flutter 101" at Tech together chicago hackathon.

@@ -46,3 +46,17 @@ I'll be logging major events/milestones of my tech journey and career every year
 ## Feb 26-27  
 - This week was great. I signed my first full time SWE job offer letter and celebrated with family 🥳🎊
 - Gave a talk on "Push notifications made easy with OneSignal" at Flutter Festival El Jadida and hosted workshop titled "Flutter 101" at Tech together chicago hackathon.
+
+## March    
+- Started my [Youtube channel](https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw)
+- Worked on Hitchhiker's Guide to Hackathon Series epsiodes
+- Recorded two talks for Flutter Festival London
+- Won 1st Place at GirlHacks Hackathon by New Jersey Institute of Technology. Prize was $1500+$100 Visa Card💰
+- Overall it was a good month
+
+## April 2-3
+- Worked on 2nd episode of Hackathon Series 
+- Chill weekend. Didn't do much
+
+
+

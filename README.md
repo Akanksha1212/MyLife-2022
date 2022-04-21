@@ -58,5 +58,7 @@ I'll be logging major events/milestones of my tech journey and career every year
 - Worked on 2nd episode of Hackathon Series 
 - Chill weekend. Didn't do much
 
-
-
+## April 21
+- Received invite from PowerToFly to speak at their Diversity Reboot Summit
+- Very excited for this event✨(https://summit.powertofly.com/)
+- Received WE Local Scholarship to attend Society of Women Enginners, India Event. 

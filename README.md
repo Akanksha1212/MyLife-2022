@@ -62,3 +62,10 @@ I'll be logging major events/milestones of my tech journey and career every year
 - Received invite from PowerToFly to speak at their Diversity Reboot Summit
 - Very excited for this event✨(https://summit.powertofly.com/)
 - Received WE Local Scholarship to attend Society of Women Enginners, India Event. 
+
+## May, June, July
+- Gave talk at PowerToFly Reboot Summit
+- Graduated from #RoadToGDE Mentorship Porgram
+- Done with my 6 month SWE internship at JP Morgan Chase & Co., Bangalore
+- Got my work visa in just 13 days. Excited for new beginnings✨ 
+

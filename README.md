@@ -71,7 +71,8 @@ I'll be logging major events/milestones of my tech journey and career every year
 - Done with my 6 month SWE internship at JP Morgan Chase & Co., Bangalore
 
 - Attended Github Field Day Delhi   
-<img src="https://user-images.githubusercontent.com/20701948/180649013-0c17e212-033d-405f-9de9-0122f503f007.jpg" width="300"><img  src="https://user-images.githubusercontent.com/20701948/180649016-dd3702b0-8f90-4e79-b7bc-ab58eec8c2c7.jpg" width="300"><img  src="https://user-images.githubusercontent.com/20701948/180649004-82447161-6532-4ccc-beda-4086fb0321a7.jpg" width="300">   
+<img src="https://user-images.githubusercontent.com/20701948/180649013-0c17e212-033d-405f-9de9-0122f503f007.jpg" width="300"><img  src="https://user-images.githubusercontent.com/20701948/180649016-dd3702b0-8f90-4e79-b7bc-ab58eec8c2c7.jpg" width="300">
 
 - Got my work visa in just 13 days. Excited for new beginnings✨   
 - Made it to [MLH Top 50 Class of 2022](https://top.mlh.io/2022/profiles/akanksha-singh)
+- Submitted project to Support Ukraine with Girls in Tech Hackathon
